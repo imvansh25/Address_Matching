@@ -1,0 +1,657 @@
+Query1 ==>MIDWEST MANUFACTURING/MW PREHUNG PLANT – BLDG #320,14320 COUNTY ROAD 15, HOLIDAY CITY, OH 43554,TEL: 419-485-6584,ATTN: JUSTIN CRAWFORD eMAIL: jcrawfor@midwestmanufacturing.com
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+MIDWEST MANUFACTURING (MENARD INC.), 14320 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query2 ==>Alliance Outdoor Group Inc.4949 264th StValley, NE, 68064, United States
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+Alliance Outdoor Group Inc, 4949 264th St , , united states, Valley, NE, 68064, USA
+--------------------------------------------------
+
+
+Query3 ==>Admiral Moving & Logistics, C/O Corrigan Logistics Graduate Fayetteville, 1245 E Henri De Tonti Blvd Springdale, AR 72762 -Ctc: Colton Gregory
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+CORRIGAN LOGISTICS A/C ADMIRAL MOVING AND LOGISTIC, 1245 EAST HENRI DE TONTI BLVD, SPRINGDALE, AR, 72762, USA
+--------------------------------------------------
+
+
+Query4 ==>QUIN GLOBAL US, INC.  5710 F STREET OMAHA, NE 68117 TEL :402-731-3636 Hours: M-F 8:00 AM to 3:00 PM
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+QUIN GLOBAL US, 5710 F STREET, OMAHA, NE, 68117, USA
+--------------------------------------------------
+
+
+Query5 ==>Chainworks, Inc. 3255 Hart Rd Jackson, MI 49201
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+CHAINWORKS, 3255 HART ROAD, JACKSON, MI, 49201, USA
+--------------------------------------------------
+
+
+Query6 ==>MID-STATE WAREHOUSE 888 O Neill Drive Hebron Oh, 43025 Justin Carder PH: 740-929-5130
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MIDSTATES WAREHOUSE, 888 O NEILL DRIVE, HEBRON, OH, 43025, USA
+--------------------------------------------------
+
+
+Query7 ==>NIPPON EXPRESS HEMLOCK WH 10401 HARRISON RD STE 101 ROMULUS, MI 48174 TIM ACKER 734-740-8534
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+NIPPON EXPRESS HEMLOCK WH, 10401 HARRISON RD, ROMULUS, MI, 48174, USA
+--------------------------------------------------
+
+
+Query8 ==>HANON C/O AEL SPAN 41775-100 ECORSE RD BELLEVILLE MI 48111 UNITED STATES
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+AEL SPAN LLC, 41775 ECORSE ROAD SUITE 100, BELLEVILLE, MI, 48111, USA
+--------------------------------------------------
+
+
+Query9 ==>HOG SLAT INC 1112 20TH STREET NORTH HUMBOLDT, IA 50548, US
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+HOG SLAT INC, 1112 20TH STREET NORTH, HUMBOLDT, IA, 50548, USA
+--------------------------------------------------
+
+
+Query10 ==>Pivot International, Inc. C/O Election Systems & Software, In 11208 John Galt Blvd Omaha NE 68137
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+Election Systems & Software, Inc, 11208 John Galt Blvd, Omaha, NE, 68137, USA
+--------------------------------------------------
+
+
+Query11 ==>SIEMENS GAMESA RENEWABLE ENERGY, INC. 714 COREY RD. HUTCHINSON KS 67501 USA ATTN: RANDY AVERY PH#: 620 259 7424 MOB: 620 314 5909 RANDY.AVERY@SIEMENS.COM
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+SIEMENS, 714 COREY ROAD, HUTCHINSON, KS, 67501, USA
+--------------------------------------------------
+
+
+Query12 ==>MENARDS # 3439 7422 EAST STREET Shelby, IA 51570
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 7422 EAST ST, SHELBY, IA, 51570, USA
+--------------------------------------------------
+
+
+Query13 ==>GATES CORPORATION 3015 LEMONE INDUSTRIAL BLVD COLUMBIA MO 65201
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+GATES CORPORATION, 3015 LEMONE INDUSTRIAL BLVD, COLUMBIA, MO, 65201, USA
+--------------------------------------------------
+
+
+Query14 ==>The Coleman Company 2111 E 37th St N, Wichita, KS 67219
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+COLEMAN COMPANY, 2111 E. 37TH ST. N, WICHITA, KS, 67219, USA
+--------------------------------------------------
+
+
+Query15 ==>W3167 County Rd S Iron Ridge WI 53035 United States
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARDS - IRON RIDGE, W3167 COUNTY RD SOUTH, IRONRIDGE, WI, 53035, USA
+--------------------------------------------------
+
+
+Query16 ==>1701 PIERCE BUTLER RTE SAINT PAUL MN 55104 United States
+Output
+--------------------------------------------------
+Category == >Low
+Result  == >
+NORTHERN BATTERY, 1229 PIERCE BUTLER RTE, SAINTPAUL, MN, 55104, USA
+--------------------------------------------------
+
+
+Query17 ==>MYGRANT GLASS COMPANY INC. 44 NORTHERN STACKS DR SUITE 100 FRIDLEY MN 55421 USA
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MYGRANT GLASS COMPANY INC, 44 NORTHERN STACKS DRIVE SUITE100, FRIDLEY, MN, 55421, USA
+--------------------------------------------------
+
+
+Query18 ==>MURPHY WAREHOUSE, 701 24TH AVE SE, DOCK DOOR #33 Minneapolis, MN 55413
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MURPHY WAREHOUSE, 701 24TH AVENUE SOUTH, MINNEAPOLIS, MN, 55414, USA
+--------------------------------------------------
+
+
+Query19 ==>MURPHY WAREHOUSE,701 24TH AVE SE, DOCK DOOR #33 Minneapolis, MN 55413
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MURPHY WAREHOUSE, 701 24TH AVENUE SOUTH, MINNEAPOLIS, MN, 55414, USA
+--------------------------------------------------
+
+
+Query20 ==>ASP TRADING, LLC. Kollektornaya Street 30, Office 2, Kyiv, 02660 Ukraine
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+ASP TRADING, LLC, Kollektornaya Street 30, Office 2, Kyiv, KV, 02660, USA
+--------------------------------------------------
+
+
+Query21 ==>DS INC. DC# 3439 7422 EAST STREET SHELBY, IA 51570 PO# 0506792-78673888, 0506791-78673877,0575745-78827602
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+Shelby DC, 7422 East St, Shelby, IA, 51570, USA
+--------------------------------------------------
+
+
+Query22 ==>NORGOLD - NEW ADDRESS 3770 Hagen Drive SE Wyoming, MI49548, UNITED STATES TEL: 616-988-0880
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+NORGOLD - NEW ADDRESS, 3770 Hagen Drive SE, Wyoming, IA, 49548, USA
+--------------------------------------------------
+
+
+Query23 ==>HIGHLIGHT INDUSTRIES INC 2694 PRAIRIE STREET SW WYOMING, MI, 49519, US eMail: RENEEV@HIGHLIGHTINDUSTRIES.COM Tel: 616-531-2464 Fax: 616-531-0506 Contact: RENEE VAN GILST
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+HIGHLIGHT INDUSTRIES INC, 2694 PRAIRIE SW, WYOMING, MI, 49509, USA
+--------------------------------------------------
+
+
+Query24 ==>BNSF Logistics Park, 26664 Baseline Road, Elwood IL 60421,  U.S.A. , Customer Service 630-595-3770 
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+  BNSF Logistics park, 26664 Baseline Road, Elwood, IL, 60421, USA
+--------------------------------------------------
+
+
+Query25 ==>F & P AMERICA 2101 CORPORATION DRIVE, TROY, OH 45373 Contact: Jason Ratliff 937-570-9132
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+F & P AMERICA, 2101 CORPORATE DRIVE, TROY, OH, 45373, USA
+--------------------------------------------------
+
+
+Query26 ==>TROPICAL NUT & FRUIT  3150 URBANCREST INDUSTRIAL DRIVE UNBANCREST, OH 43123 905-812-8960, DEBBIE CARINS  TROPICALFREIGHT@ROGERS.COM PO: P 29658 RED RIVER FOODS
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+TROPICAL NUT & FRUIT, 3150 URBANCREST INDUSTRIAL DRIVE, URBANCREST, OH, 43123, USA
+--------------------------------------------------
+
+
+Query27 ==>SCHWARZ BP121 6000 GREEN POINTE DR S GROVEPORT OH 43125 SELECT JONA SCOTT: 6144918560 X 1300 614-491-8560 W/H JONA.SCOTT@SCHWARZ.COM
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+SCHWARZ SUPPLY SOURCE, 6000 GREEN POINTE DRIVE SOUTH, GROVEPORT, OH, 43125, USA
+--------------------------------------------------
+
+
+Query28 ==>VAL PRODUCTS 200 W SYCAMORE 45828 COLDWATER, OH USA LILIANA TEL. 419-678-8731 X 261 LINDA TEL. 419-678-8731 X 208 REFERENCE: PO# 119236-00
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+VAL PRODUCTS, 200 WEST SYCAMORE, COLDWATER, OH, 45828, USA
+--------------------------------------------------
+
+
+Query29 ==>MENARD, INC. 14311 COUNTY ROAD 15 HOLIDAY CITY OH 43554
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARDS, 14502 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query30 ==>K & K Die Inc. 40700 Enterprise Dr. Dmartinez@kandkdie.com STERLING HEIGHTS, MI 48314
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+K & K DIE INC, 40700 ENTERPRISE DRIVE, STERLINGHEIGHTS, MI, 48314, USA
+--------------------------------------------------
+
+
+Query31 ==>PLUNKETT DIST - FORT SMITH 1010 SOUTH Y STREET, FORT SMITH, AR 72901
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+PLUNKETT DIST - FORT SMITH, 1010 SOUTH Y STREET, FORTSMITH, AR, 72901, USA
+--------------------------------------------------
+
+
+Query32 ==>Torque Fitness 9365 Holly St NW COON RAPIDS, MN 55433-5807 United States
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+TORQUE FITNESS, 9365 HOLLY STREET NW, COONRAPIDS, MN, 55433, USA
+--------------------------------------------------
+
+
+Query33 ==>CHEROKEE CARPET INDUSTRIES 601 CALLAHAN ROAD PO BOX 3577 706-277-6277
+Output
+--------------------------------------------------
+Category == >Low
+Result  == >
+CHEROKEE CARPET, 3374 MILLENNIUM COURT, COLUMBUS, OH, 43218, USA
+--------------------------------------------------
+
+
+Query34 ==>EMPIRE HOME FASHION 3080 WOODMAN DR KETTERING COLUMBUS, OH, 45420, US eMail: EMPIREINVOICE30@GMAIL.COM Tel: 973-873-4645 Contact: ABDEL HAMID AWAD
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+EMPIRE HOME FASION & FURNITURE, 3080 WOODMAN DR, KETTERING, OH, 45420, USA
+--------------------------------------------------
+
+
+Query35 ==>SIEMENS GAMESA RENEWABLE ENERGY, INC. 714 COREY RD. HUTCHINSON KS 67501 USA ATTN: RANDY AVERY PH#: 620 259 7424 MOB: 620 314 5909 RANDY.AVERY@SIEMENS.COM
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+SIEMENS, 714 COREY ROAD, HUTCHINSON, KS, 67501, USA
+--------------------------------------------------
+
+
+Query36 ==>KANSAS EROSION,LLC 3600 AIRPORT RD.,SALINA,KS 67401 Contact:Cathy Zecha Phone:620-617-9220 Email:Kansaserosion2@gmail.com
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+KANSAS EROSION, LLC, 3600 AIRPORT RD, SALINA, KS, 67401, USA
+--------------------------------------------------
+
+
+Query37 ==>CLEARVIEW ENTERPRISES 451 AGNES DR. Tontitown, AR 72770 United States
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+CLEARVIEW ENTERPRISES, 451 AGNES DRIVE, TONTITOWN, AR, 72770, USA
+--------------------------------------------------
+
+
+Query38 ==>CENTRAL LOGISTIC SERVICES, INC 1850 CENTENNIAL AVENUE HASTINGS, NE 68901 402-461-3775
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+CENTRAL LOGISTICS SERVICES, 1850 CENTENNIAL AVE, HASTINGS, NE, 68901, USA
+--------------------------------------------------
+
+
+Query39 ==>Menards #9008 7421 EAST STREET Shelby, IA 51570 United States
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+SAC Menards, 7421 East Street, Shelby, IA, 51570, USA
+--------------------------------------------------
+
+
+Query40 ==>GATES CORPORATION 3015 LEMONE INDUSTRIAL BLVD COLUMBIA MO 65201
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+GATES CORPORATION, 3015 LEMONE INDUSTRIAL BLVD, COLUMBIA, MO, 65201, USA
+--------------------------------------------------
+
+
+Query41 ==>FLATBED SERVICES 2260 ANDREW AVE SERGEANT BLUFF IA 51054 TEL :712-943-2030
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+FLATBED SERVICES, 2260 ANDREW AVENUE, SERGEANTBLUFF, IA, 51054, USA
+--------------------------------------------------
+
+
+Query42 ==>GOLD STONE TRADING INC 29330 STEPHENSON HWY MADISON HEIGHTS, MI 48071 T: 248-929-1868 CTC: RICKY
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+GOLD STONE TRADING CO, 32707 JOHN R ROAD, MADISONHEIGHTS, MI, 48071, USA
+--------------------------------------------------
+
+
+Query43 ==>MENARDS 14502 COUNTY ROAD 15 Holiday City, OH 43554
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 14502 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query44 ==>MENARDS #3339 14502 COUNTY RD 15 Holiday City, OH 43554
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 14502 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query45 ==>FENCHEM INC 1400 SE GATEAWAY DR. #101 GRIMES, IA 50111 ATTN.:AIHUA FEI (EXT#501)
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+FENCHEM IOWA OFFICE, 1400 SE GATEWAY DR #101, GRIMES, IA, 50111, USA
+--------------------------------------------------
+
+
+Query46 ==>CENTRAL LOGISTIC SERVICES, INC 1850 CENTENNIAL AVENUE HASTINGS, NE 68901 402-461-3775
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+CENTRAL LOGISTICS SERVICES, 1850 CENTENNIAL AVE, HASTINGS, NE, 68901, USA
+--------------------------------------------------
+
+
+Query47 ==>MENARD INC, 14502 COUNTY ROAD, HOLIDAY CITY OH 43554-8705, U.S.A
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 14502 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query48 ==>MENARDS INC SHELL ROCK CROSSDOCK # 9028 22281 WRANGLER RD SHELL ROCK, IA 50670
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+SHELL ROCK CROSSDOCK, 22281 WRANGLER RD, SHELLROCKIA, IA, 50670, USA
+--------------------------------------------------
+
+
+Query49 ==>MENARDS - EAU CLAIRE, 5103 NORTH TOWN HALL ROAD EAU CLAIRE WI 54703, REF MENARDS PO# IN NOTES 715-876-2600
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+MENARDS, 5103 NORTH TOWN HALL ROAD, EAUCLAIRE, WI, 54703, USA
+--------------------------------------------------
+
+
+Query50 ==>GLOBAL LINK SOURCING C/O GENERAL PAPER PRODUCTS 6650 143RD AVENUE NW RAMSEY MN 55303 SHANNON MINSTER 763 323-8389
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+GENERAL PAPER PRODUCTS, 6650 143RD AVE NW, RAMSEY, MN, 55303, USA
+--------------------------------------------------
+
+
+Query51 ==>INTERCEPT 34621 STATE HIGHWAY 11 ROSEAU MN 56751 UNITED STATES
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+INTERCEPT, 34621 STATE HIGHWAY 11 , Roseau, MN, 56751, USA
+--------------------------------------------------
+
+
+Query52 ==>MENARD INC MCKENZIE CROSSDOCK #9022 24461 CPUNTY HWY 10 BUILDING 921 MCKENZIE, ND 58572
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARD INC. 1 MCKENZIE CROSSDOCK, 24461 COUNTY HWY 10 BUILDING 921 MC, MCKENZIE, ND, 58572, USA
+--------------------------------------------------
+
+
+Query53 ==>BENCHMARK ELECTRONICS INC 4155 THEURER BLVD WINONA, MN 55987 UNITED STATES OF AMERICA TEL: 507-453-4877
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+BENCHMARK ELECTRONICS INC, 4155 THEURER BLVD, WINONA, MN, 55987, USA
+--------------------------------------------------
+
+
+Query54 ==>ATLAPAC COMMERCIAL BAG COMPANY 2901 E 4TH AVE COLUMBUS OH 43219 UNITED STATES
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+COMMERCIAL BAG COMPANY, 2901 EAST 4TH AVE, COLUMBUS, OH, 43219, USA
+--------------------------------------------------
+
+
+Query55 ==>MENARDS 7422 EAST STREET Shelby, IA 51570
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 7422 EAST ST, SHELBY, IA, 51570, USA
+--------------------------------------------------
+
+
+Query56 ==>NORFOLK SOUTHERN RAMP, 4800 N KIMBALL DR, KANSAS CITY MO 64161, UNITED STATES
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+NORFOLK SOUTHERN - KANSAS CITY, 4800 NORTH KIMBALL RD, KANSASCITY, MO, 64161, USA
+--------------------------------------------------
+
+
+Query57 ==>PONY EXPRESS WAREHOUSE // ARYSTA LIFESCIENCE, 2307 ALABAMA ST, SAINT JOSEPH MO 64504, UNITED STATES
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+PONY EXPRESS, 2307 ALABAMA ST, STJOSEPH, MO, 64503, USA
+--------------------------------------------------
+
+
+Query58 ==>ASHLEY FURNITURE INDUSTRIES ONE ASHLEY WAY ARCADIA, WI 54612 Tel : 920 757 9590 Fax : Contact : DAN KRAY
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+ASHLEY FURNITURE, 1 ASHLEY WAY, ARCADIA, WI, 54612, USA
+--------------------------------------------------
+
+
+Query59 ==>Preferred Chicago 32357 S. Wood St Chicago, IL 60608 T: (773) 268-3400
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+PREFERRED CHICAGO 3, 2357 SOUTH WOOD ST, CHICAGO, IL, 60608, USA
+--------------------------------------------------
+
+
+Query60 ==>Preferred Chicago 32357 S. Wood St.Chicago, IL 60608 T: (773) 268-3400
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+PREFERRED CHICAGO 3, 2357 SOUTH WOOD ST, CHICAGO, IL, 60608, USA
+--------------------------------------------------
+
+
+Query61 ==>ALDI INC., 1200 N KIRK RD BATAVIA, IL 60510-1477,USA
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+R.W. ROGERS COMPANY, 610 SOUTH KIRK ROAD, STCHARLES, IL, 60174, USA
+--------------------------------------------------
+
+
+Query62 ==>Sandy Francis Build SMART 3701 Greenway Circle Lawrence, KS 66046 Email: sfrancis@buildsmartna.com 785-331-1022
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+BUILD SMART, 3701 GREENWAY CIRCLE, LAWRENCE, KS, 66046, USA
+--------------------------------------------------
+
+
+Query63 ==>FEDEX TRADE NETWORKS-MI 11101 METRO AIRPORT CENTER DR., STE. 100 ROMULUS, MI 48174-1694, UNITED STATES MAHER HARHARA TEL: 313.518.3100 MIKE 810-650-6136/966-3603
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+FEDEX TRADE NETWORKS TRANSPORT & BROKERAGE, 11101 METRO AIRPORT CENTER DRIVE SUITE 100, ROMULUS, MI, 48174, USA
+--------------------------------------------------
+
+
+Query64 ==>WOODCO, 3140 103RD LN NE BLAINE MN 55449-4522 UNITED STATES
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+WOODCO, 3140 103RD LN NE, BLAINE, MN, 55449, USA
+--------------------------------------------------
+
+
+Query65 ==>MOLDED FIBERGLASS COMPANIES 1401 BROWN COUNTY RD. 19 NORTH ABERDEEN SD 57401 USA
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MOLDED FIBER GLASS COMPANIES, 1401 BROWN COUNTY NO 19 NORTH, ABERDEEN, SD, 57401, USA
+--------------------------------------------------
+
+
+Query66 ==>MENARD INC, HOLIDAY CITY DC, 14502 COUNTY ROAD 15, HOLIDAY CITY OH 43554, U.S.A
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARDS, 14502 COUNTY ROAD 15, HOLIDAYCITY, OH, 43554, USA
+--------------------------------------------------
+
+
+Query67 ==>SOFIDEL - TULSA 16400 EAST 620 ROAD INOLA, OK 74036
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+SOFIDEL - TULSA, 16400 EAST 620 ROAD, INOLA, OK, 74036, USA
+--------------------------------------------------
+
+
+Query68 ==>Protect Land and Equipment LLC c/o Rheal Cattle, 209 E Jackson St., Fremont NE 68025 Tel : 402-721-9525
+Output
+--------------------------------------------------
+Category == >Low
+Result  == >
+PROTECT LAND AND EQUIPMENT LLC, 209 EAST JACKSON STREET, FREMONT, NE, 68025, USA
+--------------------------------------------------
+
+
+Query69 ==>MENARDS MENARDS - YARD # 3039 4860 MENARD DR MENARDS DC SOUTH EAU CLAIRE, WI 54703 UNITED STATES OF AMERICA
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARDS EAU CLAIRE DC, 4860 MENARD DR, EAUCLAIREWI, WI, 54703, USA
+--------------------------------------------------
+
+
+Query70 ==>SHELBY 3439 7422 EAST STREET SHELBY, IA 51570-3320
+Output
+--------------------------------------------------
+Category == >Medium
+Result  == >
+MENARDS SHELBY, 7422 East St, Shelby, IA, 51570, USA
+--------------------------------------------------
+
+
+Query71 ==>SWAN CREEK CANOE CO. 395 WEST AIRPORT HIGHWAY SWANTON, OH 43558 CTC: KATHERINE DUET / T: 419-825-1151
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+SWAN CREEK CANOE CO, 395 WEST AIRPORT HWY, SWANTON, OH, 43558, USA
+--------------------------------------------------
+
+
+Query72 ==>MENARD INC. 4860 MENARD DRIVE EAU CLAIRE, WI 54703-9604, UNITED STATES TEL: 715-876-2515 ATTN: TEL: 715-876-2515
+Output
+--------------------------------------------------
+Category == >High
+Result  == >
+MENARDS EAU CLAIRE DC, 4860 MENARD DR, EAUCLAIREWI, WI, 54703, USA
+--------------------------------------------------
+
+
+Query73 ==>MENARDS 7422 EAST STREET Shelby, IA 51570
+Output
+--------------------------------------------------
+Category == >Very High
+Result  == >
+MENARDS, 7422 EAST ST, SHELBY, IA, 51570, USA
+--------------------------------------------------
+
+

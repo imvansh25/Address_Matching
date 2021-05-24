@@ -1,0 +1,23 @@
+1. Origin address/shipper or export
+2. Delivery add/name of consine
+3. return add
+
+Pdf left 
+8
+12
+30
+37
+39
+42
+53
+60
+64
+
+Query 
+21
+29
+33
+49
+52
+61
+66

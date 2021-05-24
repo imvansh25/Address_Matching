@@ -1,0 +1,4211 @@
+Query ==>Sahibabad Industrial Area, Ghaziabad
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.125	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.185	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.52	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.17	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>E-waste Recyclers,716 Washington S, Wichita
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.067	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.074	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.372	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.108	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.071	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.077	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.08	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.071	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.08	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>26 Clarence St, Brooklyn,AccountAble Outsourcing Limited
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.041	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.101	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.055	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.065	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.052	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.065	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.395	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.068	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>C & T Technology Ltd ,Broadstone Road, 326 Broadstone Mill,
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.048	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.056	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.058	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.472	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.062	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.064	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.058	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.067	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.114	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.032	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.033	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.036	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.038	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.036	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.035	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.038	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.086	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.089	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.086	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.332	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.159	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.076	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.089	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.074	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.247	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.169	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.089	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.089	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.082	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.085	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>161 Young St, The Beer Store, Alliston, ON L9R 2A9, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.07	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.081	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.068	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.149	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.317	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.081	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.081	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.075	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.078	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.031	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.015	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.014	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.03	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.019	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.058	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.068	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.217	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.068	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.07	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.068	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.068	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.063	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.083	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.017	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.014	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.017	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.019	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.019	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.016	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>https://www.homehardware.ca/store/18053
+Output
+--------------------------------------------------
+
+No Result Found
+--------------------------------------------------
+Query ==>Sahibabad Industrial Area, Ghaziabad
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.125	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.185	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.52	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.17	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>E-waste Recyclers,716 Washington S, Wichita
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.067	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.074	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.372	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.108	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.071	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.077	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.08	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.071	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.08	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>26 Clarence St, Brooklyn,AccountAble Outsourcing Limited
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.041	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.101	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.055	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.065	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.052	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.065	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.395	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.068	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>C & T Technology Ltd ,Broadstone Road, 326 Broadstone Mill,
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.048	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.056	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.058	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.472	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.062	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.064	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.058	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.067	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.114	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.032	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.033	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.036	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.038	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.036	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.035	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.038	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.086	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.089	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.086	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.332	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.159	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.076	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.089	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.074	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.247	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.169	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.089	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.089	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.082	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.085	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>161 Young St, The Beer Store, Alliston, ON L9R 2A9, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.07	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.081	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.068	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.149	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.317	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.081	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.081	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.075	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.078	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.031	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.015	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.014	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.03	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.019	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.058	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.068	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.217	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.068	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.07	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.068	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.068	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.063	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.083	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.017	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.014	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.017	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.019	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.019	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.016	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>+14163649548
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+1.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Sahibabad Industrial Area, Ghaziabad
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.125	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.185	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.52	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.17	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>E-waste Recyclers,716 Washington S, Wichita
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.067	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.074	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.372	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.108	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.071	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.077	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.08	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.071	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.08	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>26 Clarence St, Brooklyn,AccountAble Outsourcing Limited
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.041	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.079	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.101	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.055	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.065	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.052	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.065	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.395	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.068	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>C & T Technology Ltd ,Broadstone Road, 326 Broadstone Mill,
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.048	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.056	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.058	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.472	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.062	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.064	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.058	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.067	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.114	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.032	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.033	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.036	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.038	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.036	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.035	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.038	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.086	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.089	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.086	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.332	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.159	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.076	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.089	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.074	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.247	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.169	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.089	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.089	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.082	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.085	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>161 Young St, The Beer Store, Alliston, ON L9R 2A9, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.07	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.081	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.068	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.149	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.317	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.081	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.081	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.075	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.078	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.031	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.015	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.015	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.014	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.03	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.019	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.058	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.068	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.217	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.068	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.07	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.068	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.068	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.063	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.083	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.017	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.014	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.017	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.019	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.019	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.016	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>+14163649548
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+1.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Church St S, Alliston, ON L9R 2B7, Canada
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.09	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.204	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.087	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.104	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.109	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.104	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.104	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.097	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.1	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>815 E Gilbert St, Wichita, KS 67211, United States
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.029	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.032	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.032	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.032	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.011	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.028	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.011	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.027	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.029	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.029	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.05	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.154	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.058	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.058	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.054	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.058	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.061	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.054	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.061	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.046	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.012	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.013	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.014	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.013	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.012	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.01	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.013	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.0	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.0	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.0	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.0	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.0	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.0	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.0	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.0	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.0	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.0	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.0	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.0	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
+Query ==>Bitmart Technology,Sorrento WA 6020, Australia
+Output
+--------------------------------------------------
+
+0.0	Vansh Gupta B140 4th floor Jhilmil colony, New Delhi , 110095
+
+0.0	KoiReader Technologies,Inc #153, Sector 5, HSR Layout , Bengaluru
+
+0.0	Microsoft pvt lmt ,9399 S PRIEST DR,210120
+
+0.0	DI foundation,9316 S MARGO DR , 11001
+
+0.0	PUBLI foundation,130 INTERSTATE BLVD, SUIT 21\nNASHEVILLE, NC 28806
+
+0.0	Hutto Ace Hardware , 5726 Memorial Blvd, Saint George, SC 29477 (843) 563-4012
+
+0.0	BOOK TA .K (TAMAN DAYA) SDN BHD,NO.53 55,57 & 59, JALAN SAGU 18, TAMAN DAYA, 81100 JOHOR BAHRU, JOHOR.
+
+0.0	ADVANCO COMPANY,co,NO 1&3\, JALAN ANGSA DELIMA 12,WANGSA LINK\, WANGSA MAJU,53300 KUALA LUMPUR
+
+0.0	BJ'S co,100 S MILL AVE,Berlin,Germany,030-150-98654
+
+0.0	FAMILY corp Apple Street 1 San Francisco, 837 28 united States of America,7364958472
+
+0.0	DECA associates, wall street 4525 Brooklyn, 837 28 united States of America
+
+0.0	GODL in,57 Beach Rd.12845 Lake George NY,USA,TeL:+12121231254
+
+0.0	AUTOBAHN ENTERPRISES PVT. LTD.,Amar Enterprises Comound,Business complex No. 117. Kale Marg, OH LBS Marg. Kamani. Kurla (w) Mumbai 400 070,service@autobahn.co.in State Code: 27022-6266g999/01'02/03Y04 Fax: 25158802038903315AN
+
+0.0	ASSOCIAT systems,ont Lane,Altoona, PA 1,united States of America,hello@lnvoice.land
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, Leeds, LC24 1 NB, United Kingdom
+
+0.0	Stan's Guitar Store 19 Exchange St. 12801 Glens Falls NY USA +442342343452
+
+0.0	Cheap Dot Cloud Limited,Better Accounts Ltd Brookfield Court, Selby Road, London, LC52 1 NB, United Kingdom
+
+0.0	Subway Sandwiches & Salads , 253 Penco Rd - 26062-3816, USA , Phone: 2053307822,Fax: 3047230133
+
+0.0	Summit Financial Group,1400 Lafayette Ave - Moundsville - 26833,USA
+
+0.0	DNA BIOMETRICS,26 SPRING STREET - 26463,Wyatt,USA,Phone: 3042912548
+
+0.0	Golden Manufacturing Company,A-7/2, Industrial Area, Phase II Rd, Block A, Jhilmil Colony, Delhi, 110095,India,Phone: 011 2211 1874
+
+0.0	PARAS TRADING COMPANY,Comunity Center, 210, Rishabh Tower, Karkardooma, Anand Vihar, New Delhi, Delhi 110092,India
+
+0.0	Delhi Electricals Trading Company,Shed No 29, Jhilmil Industrial Area, Jhilmil Colony Industrial Area, Jhilmil Colony, Delhi, 110095,Phone: 092125 38586
+
+0.0	KSBM INFOTECH,488/6 2nd Floor, Near Radha Krishna Mandir, above Muthoot Finance, A Block, Dilshad Garden, Delhi, 110095,India
+
+0.0	Global Bleach Chem Private Limited,16/1A-3, Site-IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh 201010,India,+919811019714
+
+0.0	Tight Ends Sports Bar & Grill,524 S Seneca St, Wichita, KS 67213, United States
+
+0.0	ABC Recycling,815 E Gilbert St, Wichita, KS 67211, United States,+13162692900
+
+0.0	American E-waste Recyclers,716 Washington S, Wichita, KS 67211, United States,+13168719858
+
+0.0	Wichita Ductless,1508 E Harry St, Wichita, KS 67211, United States
+
+0.0	Senseney Music, Inc.,2300 E Lincoln St, Wichita, KS 67211, United States,+13162621487
+
+0.0	Dollar General,2747 Boulevard Plaza, Wichita, KS 67211, United States,+13162234237
+
+0.0	AutoZone Auto Parts,910 Oliver, Wichita, KS 67218, United States
+
+0.0	Ace Hardware,1230 S Woodlawn Blvd, Wichita, KS 67218, United States,+13166857201,http://www.acehardware.com/
+
+0.0	McDonald's,1219 S Rock Rd, Wichita, KS 67207, United States
+
+0.0	Armored Decal Company Inc,35 Victoria St E #9, Alliston, ON L9R 1T3, Canada,+17054356665
+
+0.0	Alumavent Ventex, Inc.,222 Church St S, Alliston, ON L9R 2B7, Canada
+
+0.0	Alliston Home Hardware Building Centre,4840 Concession Road 7, Alliston, ON L9R 1V1, Canada,+17054355511,https://www.homehardware.ca/store/18053
+
+0.0	Canadian Tire,110 Young Street, ON-89, Alliston, ON L9R 1P8, Canada
+
+0.0	The Beer Store,161 Young St, Alliston, ON L9R 2A9, Canada
+
+0.0	Walmart Supercentre,30 Dunham Drive, Alliston, ON L9R 1V2, Canada,+17054357100
+
+0.0	Simcoe Parts Service,6795 Industrial Pkwy, Alliston, ON L9R 1W1, Canada
+
+0.0	Ontario Potato Distributing Inc,6735 12th Line, Alliston, ON L9R 1V4, Canada,+14163649548
+
+0.0	Trailwood Transport Ltd,4925 C.W. Leach Rd, Alliston, ON L9R 2B1, Canada
+
+0.0	Macclesfield Household Waste Recycling Centre,Congleton Road, Gawsworth, Macclesfield SK11 9QP, United Kingdom
+
+0.0	Peak Pharmacy,5-6 Weston Square, Macclesfield SK11 8SS, United Kingdom,+441625423465
+
+0.0	Tesco Express,Broken Cross, Macclesfield SK11 8UA, United Kingdom
+
+0.0	Prestbury Riding Stables,Park House Dr, Prestbury, Macclesfield SK10 4HY, United Kingdom
+
+0.0	Edmundson Electrical,Unit 3 Coronation Point, Coronation Street, Stockport SK5 7PL, United Kingdom,+441614774445
+
+0.0	C & T Technology Ltd ,3rd floor Suite 326 Broadstone Mill, Broadstone Rd, Stockport SK5 7DL, United Kingdom+441614434163,http://ct-technologyinfo.com/
+
+0.0	Rosgal Ltd,Unit 6 Sandfold Ln, Manchester M19 3BJ, United Kingdom
+
+0.042	Glebe Markets,Glebe Point Rd &, Derby Pl, Glebe NSW 2037, Australia,+61419291449
+
+0.043	Supa Centa,S Dowling St & Todman Avenues, Kensington NSW 2033, Australia,http://www.supacentamoorepark.com.au/
+
+0.047	McDonald's Victoria Markets,501-503 Elizabeth St, Melbourne VIC 3000, Australia
+
+0.049	Operator25,25 Wills St, Melbourne VIC 3000, Australia,+61396703278
+
+0.047	Biryani House,343 King St, West Melbourne VIC 3003, Australia
+
+0.045	Dosa Corner CBD,169 King St, Melbourne VIC 3000, Australia,+61492998773
+
+0.049	Melbourne Maritime Services,Enterprize Rd, Docklands VIC 3008, Australia
+
+0.0	Jaycar Electronics,85 Gasson Street, Sydenham, Christchurch 8023, New Zealand,+6433791662
+
+0.0	Repco Fitzgerald Ave,43 Fitzgerald Avenue, Christchurch Central City, Christchurch 8011, New Zealand
+
+0.0	FreshChoice Edgeware,61 Edgeware Road, Edgeware, Christchurch 8014, New Zealand
+
+0.0	Burwood Auto Services,75 Bassett Street, Burwood, Christchurch 8083, New Zealand,+6439609342
+
+0.0	Harvey R G & Co,52 Lower Styx Road, Bottle Lake, Christchurch 8083, New Zealand
+
+0.0	Briscoes,130 Taranaki Street, Te Aro, Wellington 6011, New Zealand
+
+0.0	AccountAble Outsourcing Limited,26 Clarence Street, Brooklyn, Wellington 6021, New Zealand,http://www.accountableoutsourcing.com/,+64223190471
+
+0.0	OCS Limited ,20 Glover Street, Ngauranga, Wellington 6035, New Zealand
+
+0.111	Jaycar Electronics,83-87 Frobisher St, Osborne Park WA 6017, Australia,+61894449250
+
+0.115	My Pet Warehouse,59 Frobisher St, Osborne Park WA 6017, Australia
+
+0.111	Fencing & Gate Co.,2 Beckington Way, Karrinyup WA 6018, Australia
+
+0.228	Bitmart Technology,49 Kempenfeldt Ave, Sorrento WA 6020, Australia
+
+0.115	Easi Finance Group,45 Ashmore Way, Sorrento WA 6020, Australia
+
+--------------------------------------------------
